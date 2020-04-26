@@ -1,0 +1,29 @@
+while loop
+
+x=10
+while(x>0):
+    print(x)
+    x=x-1
+------------------------
+for loop
+
+for i in range(5):
+    print(i)
+
+-------------------------
+defining a function
+
+def func():
+    print("hello world")
+	
+built in data types
+--------------------------------
+int , float , none, bool
+
+-------------------------------
+relational operators
+=, !=, <, >, >=, <=
+--------------------------------
+import math
+
+help(math)
